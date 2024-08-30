@@ -29,7 +29,7 @@
 ; PORT 0                   |  PORT 1                   |  PWM    COM    PWM    LED
 ; P0 P1 P2 P3 P4 P5 P6 P7  |  P0 P1 P2 P3 P4 P5 P6 P7  |  inv    inv    side    n
 ; -----------------------  |  -----------------------  |  -------------------------
-; Bm Cm Am Vn __ RX __ __  |  Ap Ac Bp Bc Cp Cc __ __  |  no     no     high   _
+; Bm Cm Am Vn __ RX __ __  |  Ap Ac Bp Bc Cp Cc __ __  |  no     no     high   __
 ;
 ;**** **** **** **** **** **** **** **** **** **** **** **** ****
 
